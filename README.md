@@ -1,2 +1,2 @@
 # Payment-Gateway-Integration
-This code is for internship purpose of The Sparks Fpoundation #GRIP# #MAY22#
+This is task 3 of TSF GRIP Internship
